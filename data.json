@@ -1,0 +1,16 @@
+{
+  "store": [
+    {
+      "name": "ao dep",
+      "price": "10000",
+      "img": "./assets/img/items/item3.jpg",
+      "id": 1
+    },
+    {
+      "name": "asd",
+      "price": "123",
+      "img": "./assets/img/items/item11.jpg",
+      "id": 2
+    }
+  ]
+}
